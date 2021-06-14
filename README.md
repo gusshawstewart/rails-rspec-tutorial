@@ -1,4 +1,4 @@
-# Testing Rails with RSpec
+# Testing Rails with RSpec ABC
 
 Beginners introduction to testing Ruby On Rails application with RSpec and Capybara.
 
